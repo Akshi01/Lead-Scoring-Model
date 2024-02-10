@@ -20,7 +20,7 @@ This project helps businesses prioritize potential customers for higher conversi
 
 In this section, we compare the performance of two key models used in our lead-scoring project: Logistic Regression and Random Forest. Below are the ROC AUC curves for both models:
 
-![Model 1 ROC AUC Curve](https://i.imgur.com/MBBDJtu.png)
+![Model 1 ROC AUC Curve](https://imgur.com/undefined.png)
 
 
 ## Contact

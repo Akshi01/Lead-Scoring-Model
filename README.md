@@ -25,4 +25,4 @@ In this section, we compare the performance of two key models used in our lead-s
 
 ## Contact
 
-If you have any questions, you can reach me at [bharadwajakshi@gmail.com](mailto:bharadwajakshi@gmail.com).
+If you have any questions/suggestions/feedback, please free to reach me at [bharadwajakshi@gmail.com](mailto:bharadwajakshi@gmail.com).
